@@ -1,6 +1,14 @@
 # Emerald Prime Properties – Conversion Rate Analysis Dashboard
 
-
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Objective](#objective)
+4. [Tools Used](#tools-used)
+5. [Process](#process)
+6. [Key Insights](#key-insights)
+7. [Recommendations](#recommendations)
+8. [Connect With Me](#connect-with-me)
 
 
 ## Project Overview
